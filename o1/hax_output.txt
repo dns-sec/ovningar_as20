@@ -1,0 +1,25 @@
+
+=== SYSTEMINFO ===
+Linux admin 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 GNU/Linux
+
+=== AKTUELL ANVÄNDARE ===
+admin
+
+=== ANVÄNDARE MED SHELL ===
+root:x:0:0:root:/root:/bin/bash
+admin:x:1000:1000::/home/admin:/bin/bash
+
+=== NÄTVERK ===
+    inet 127.0.0.1/8 scope host lo
+    inet 10.255.255.254/32 brd 10.255.255.254 scope global lo
+    inet6 ::1/128 scope host proto kernel_lo 
+    inet 172.20.28.206/20 brd 172.20.31.255 scope global eth0
+    inet6 fe80::215:5dff:fef1:f065/64 scope link proto kernel_ll 
+
+Distribution:
+
+NAME="Debian GNU/Linux"
+VERSION="13 (trixie)"
+Uptime:  up 13 minutes
+Datum & tid:  Wed Dec 10 09:41:04 AM CET 2025
+
