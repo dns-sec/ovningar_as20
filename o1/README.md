@@ -1,5 +1,3 @@
-Applied script
+## Övning 1 – Informationsinsamling i Linux
 
-Ovning_1a
-
-Dennis Andersson
+Ett Bash-script som samlar in grundläggande system-, användar- och nätverksinformation i en Linux-miljö för rekognosering och analys.
